@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "W1VsIJMTwji59tfHOzVDWzMLNZw=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "9181e3a86a19bacd63e68d43ae8b7b36320d8092",
+			"revisionTime": "2017-12-04T00:43:26Z"
+		},
+		{
+			"checksumSHA1": "U/h3UVHfIsfAoV3mdAi+VPSO9YA=",
+			"path": "github.com/go-xorm/builder",
+			"revision": "a4a881a4e552fcb5473f39e8b9f7d9f3457a7fb0",
+			"revisionTime": "2017-10-30T02:14:29Z"
+		},
+		{
+			"checksumSHA1": "g/qGG3TXCQUyu5uY+DMT3oOvwkc=",
+			"path": "github.com/go-xorm/core",
+			"revision": "cb1d0ca71f42d3ee1bf4aba7daa16099bc31a7e9",
+			"revisionTime": "2017-12-21T01:38:49Z"
+		},
+		{
+			"checksumSHA1": "FBJa31/bsP+Wgdi55D7AjKrL4OI=",
+			"path": "github.com/go-xorm/xorm",
+			"revision": "3480244cd27f8a3ca33e51e798346fa4064f25e2",
+			"revisionTime": "2017-12-20T08:08:10Z"
+		}
+	],
+	"rootPath": "test-project"
+}
